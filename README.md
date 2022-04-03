@@ -4,4 +4,8 @@ The purpose of this challenge was to create an interactive map object charted wi
 
 
 
+<<<<<<< HEAD
 <a href="./StarterCode/index.html">Interactive Map</a>
+=======
+<a href="StarterCode/index.html">Interactive Map</a>
+>>>>>>> 8a508a22ab3389bd26191ddc3d34b10a977f7ab8
