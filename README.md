@@ -7,6 +7,6 @@ The purpose of this challenge was to create an interactive map object charted wi
 
 Here is our link to our interactive map. This map has toggle ability as well as pop ups so that you may pin point specific earthquakes.
 
-<a href="StarterCode/index.html">Interactive Map</a>
+<a href="https://nikdav3126.github.io/Leaflet-Challenge/">Interactive Map</a>
 
 This project was coded using JavaScript, HTMl, and CSS. The libraries used were Leaflet and D3. 
