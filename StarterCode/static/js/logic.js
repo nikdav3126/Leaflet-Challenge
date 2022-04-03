@@ -29,7 +29,7 @@ let basemaps = {
 
 //Default location when running
 var myMap = L.map ("map", {
-    center: [15.326572, -76.157227],
+    center: [33.614047,-43.102483],
     zoom: 3,
     layers: [defaultMap, grayscaleMap, topoMap]
 });
