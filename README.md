@@ -5,9 +5,9 @@ The purpose of this challenge was to create an interactive map object charted wi
 <img src="/Images/Map.png" alt="Example of Project" title="Example of Finished Output">
 
 
-<<<<<<< HEAD
+
 <a href="./StarterCode/index.html">Interactive Map</a>
-=======
+
 Here is our link to our interactive map. This map has toggle ability as well as pop ups so that you may pin point specific earthquakes.
 
 <a href="https://nikdav3126.github.io/Leaflet-Challenge/">Interactive Map</a>
