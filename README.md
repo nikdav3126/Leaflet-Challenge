@@ -13,4 +13,4 @@ Here is our link to our interactive map. This map has toggle ability as well as 
 <a href="https://nikdav3126.github.io/Leaflet-Challenge/">Interactive Map</a>
 
 This project was coded using JavaScript, HTMl, and CSS. The libraries used were Leaflet and D3. 
->>>>>>> 4a8629377c0489c3967b5c4c16f101c2c6878de0
+
